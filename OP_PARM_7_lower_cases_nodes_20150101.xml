@@ -1,0 +1,63 @@
+<!-- edited with XMLSpy v2015 rel. 4 sp1 (x64) (http://www.altova.com) by Rafi (ABB Enterprise Software) -->
+<operational_parameters>
+	<operational_parameters>
+		<action>INSERT</action>
+		<ptcpt_cd>DEMO</ptcpt_cd>
+		<tx_pt>AEP</tx_pt>
+		<effective_dt>2015-01-01</effective_dt>
+		<source>INTERNAL</source>
+		<row_id>1</row_id>
+		<combined_cycle>
+			<status>INDIVIDUAL</status>
+			<ext_id>test</ext_id>
+			<comments>test comment</comments>
+		</combined_cycle>
+		<defaults>
+			<clrg_cd>DA</clrg_cd>
+			<min_emmergency>100.1</min_emmergency>
+			<min_economic>100.1</min_economic>
+			<min_regulation>100.1</min_regulation>
+			<max_regulation>100.1</max_regulation>
+			<max_economic>100.1</max_economic>
+			<max_emergency>100.1</max_emergency>
+			<offline_resource>100.1</offline_resource>
+			<no_load_coast>100.11</no_load_coast>
+			<cold_startup>100.11</cold_startup>
+			<inter_startup>100.11</inter_startup>
+			<hot_startup>100.11</hot_startup>
+			<ramp_rate>100.1</ramp_rate>
+			<ramp_rate_up>100.1</ramp_rate_up>
+			<ramp_rate_down>100.1</ramp_rate_down>
+			<ramp_rate_biodirectional>100.1</ramp_rate_biodirectional>
+			<commitmet_status>ECONOMIC</commitmet_status>
+			<eo_dispatch_status>ECONOMIC</eo_dispatch_status>
+			<reg_dispatch_status>ECONOMIC</reg_dispatch_status>
+			<spin_dispatch_status>ECONOMIC</spin_dispatch_status>
+			<supp_dispatch_status>ECONOMIC</supp_dispatch_status>
+			<supp_off_dispatch_status>ECONOMIC</supp_off_dispatch_status>
+			<eco_low_limit_mw>100.1</eco_low_limit_mw>
+			<eco_low_limit_temp>100.1</eco_low_limit_temp>
+			<eco_mid_limit_mw>100.1</eco_mid_limit_mw>
+			<eco_mid_limit_temp>100.1</eco_mid_limit_temp>
+			<eco_high_limit_mw>100.1</eco_high_limit_mw>
+			<eco_high_limit_temp>100.1</eco_high_limit_temp>
+			<emgcy_low_limit_mw>100.1</emgcy_low_limit_mw>
+			<emgcy_low_limit_temp>100.1</emgcy_low_limit_temp>
+			<emgcy_mid_limit_mw>100.1</emgcy_mid_limit_mw>
+			<emgcy_mid_limit_temp>100.1</emgcy_mid_limit_temp>
+			<emgcy_high_limit_mw>100.1</emgcy_high_limit_mw>
+			<emgcy_high_limit_temp>100.1</emgcy_high_limit_temp>
+			<reg_low_limit_mw>100.1</reg_low_limit_mw>
+			<reg_low_limit_temp>100.1</reg_low_limit_temp>
+			<reg_mid_limit_mw>100.1</reg_mid_limit_mw>
+			<reg_mid_limit_temp>100.1</reg_mid_limit_temp>
+			<reg_high_limit_mw>100.1</reg_high_limit_mw>
+			<reg_high_limit_temp>100.1</reg_high_limit_temp>
+			<max_cr_deploy_mw>100.1</max_cr_deploy_mw>
+			<max_reg_up_deploy_mw>100.1</max_reg_up_deploy_mw>
+			<max_reg_down_deploy_mw>100.1</max_reg_down_deploy_mw>
+			<ext_id>test default</ext_id>
+			<comments>test default comments</comments>
+		</defaults>
+	</operational_parameters>
+</operational_parameters>

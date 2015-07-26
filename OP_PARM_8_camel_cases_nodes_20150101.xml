@@ -1,0 +1,63 @@
+<!-- edited with XMLSpy v2015 rel. 4 sp1 (x64) (http://www.altova.com) by Rafi (ABB Enterprise Software) -->
+<Operational_Parameters>
+	<Oerational_Parameters>
+		<Action>INSERT</Action>
+		<Ptcpt_Cd>DEMO</Ptcpt_Cd>
+		<Tx_Pt>AEP</Tx_Pt>
+		<Effective_date>2015-01-01</Effective_date>
+		<Source>INTERNAL</Source>
+		<Row_Id>1</Row_Id>
+		<Ccobined_Cycle>
+			<Status>INDIVIDUAL</Status>
+			<Ext_Id>test</Ext_Id>
+			<Comments>test comment</Comments>
+		</Ccobined_Cycle>
+		<Defaults>
+			<Clrg_Cd>DA</Clrg_Cd>
+			<Min_Emergency_Limit>100.1</Min_Emergency_Limit>
+			<Min_Economice_Limit>100.1</Min_Economice_Limit>
+			<Min_Regulation_Limit>100.1</Min_Regulation_Limit>
+			<Max_Regulation_Limit>100.1</Max_Regulation_Limit>
+			<Max_Economic_limit>100.1</Max_Economic_limit>
+			<Max_Emergency_Limit>100.1</Max_Emergency_Limit>
+			<Offline_Resource_Limit>100.1</Offline_Resource_Limit>
+			<No_Load_Cost>100.11</No_Load_Cost>
+			<Cold_Start_Up_Cost>100.11</Cold_Start_Up_Cost>
+			<Inter_Start_Up_Cost>100.11</Inter_Start_Up_Cost>
+			<Hot_Strat_Up_Cost>100.11</Hot_Strat_Up_Cost>
+			<Ramp_Rate>100.1</Ramp_Rate>
+			<Ramp_Rate_Up>100.1</Ramp_Rate_Up>
+			<Ramp_Rate_Down>100.1</Ramp_Rate_Down>
+			<Ramp_Rate_Bidirectional>100.1</Ramp_Rate_Bidirectional>
+			<Commitment_Status>ECONOMIC</Commitment_Status>
+			<Eo_Dispatch_Status>ECONOMIC</Eo_Dispatch_Status>
+			<Reg_Dispatch_Status>ECONOMIC</Reg_Dispatch_Status>
+			<Spin_Dispatch_Status>ECONOMIC</Spin_Dispatch_Status>
+			<Supp_On_Dispatch_Status>ECONOMIC</Supp_On_Dispatch_Status>
+			<Supp_Off_Dispatch_Status>ECONOMIC</Supp_Off_Dispatch_Status>
+			<Eco_Low_Limit_Mw>100.1</Eco_Low_Limit_Mw>
+			<Eco_Low_Limit_Temp>100.1</Eco_Low_Limit_Temp>
+			<Eco_Mid_Limit_Mw>100.1</Eco_Mid_Limit_Mw>
+			<Eco_Mid_Limit_Temp>100.1</Eco_Mid_Limit_Temp>
+			<Eco_High_Limit_Mw>100.1</Eco_High_Limit_Mw>
+			<Eco_High_Limit_Temp>100.1</Eco_High_Limit_Temp>
+			<Emrgy_Low_Limit_Mw>100.1</Emrgy_Low_Limit_Mw>
+			<Emrgy_Low_limit_Temp>100.1</Emrgy_Low_limit_Temp>
+			<Emrgy_Mid_Limit_Mw>100.1</Emrgy_Mid_Limit_Mw>
+			<Emrgy_Mid_Limit_Temp>100.1</Emrgy_Mid_Limit_Temp>
+			<Emrgy_High_Limit_Mw>100.1</Emrgy_High_Limit_Mw>
+			<Emrgy_High_Limit_Temp>100.1</Emrgy_High_Limit_Temp>
+			<Reg_Low_Limit_Mw>100.1</Reg_Low_Limit_Mw>
+			<Reg_Low_Limit_Temp>100.1</Reg_Low_Limit_Temp>
+			<Reg_Mid_Limit_Mw>100.1</Reg_Mid_Limit_Mw>
+			<Reg_Mid_Limit_Temp>100.1</Reg_Mid_Limit_Temp>
+			<Reg_High_Limit_Mw>100.1</Reg_High_Limit_Mw>
+			<Reg_High_Limit_Temp>100.1</Reg_High_Limit_Temp>
+			<Max_Cr_Deploy_Mw>100.1</Max_Cr_Deploy_Mw>
+			<Max_Reg_Up_Deplow_Mw>100.1</Max_Reg_Up_Deplow_Mw>
+			<Max_Reg_Down_Deplow_Mw>100.1</Max_Reg_Down_Deplow_Mw>
+			<Ext_Id>test default</Ext_Id>
+			<Comments>test default comments</Comments>
+		</Defaults>
+	</Oerational_Parameters>
+</Operational_Parameters>
